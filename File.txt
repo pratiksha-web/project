@@ -1,7 +1,9 @@
 Hello World....
 
-Change:- to check modification in tracked file
+Change 1 :- to check modification in tracked file
 
-Change:- to fix bug1
+Change 2 :- to fix bug1
 
-change:- by team mate for WI5, 3-waymerging
+change 3 :- to fix bug2, 3-way merging
+
+change 4:- by team mate for WI5, 3-waymerging
