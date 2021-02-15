@@ -15,3 +15,5 @@ change 6 :-> for enhancement1 to check rebase.
 
 change 7 :-> to test stash for WI7 is in progress
 
+change 8 :-> to test push for WI8 from local master to remote master
+
