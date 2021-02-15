@@ -17,6 +17,9 @@ change 7 :-> to test stash for WI7 is in progress.
 
 change 8 :-> to test push for WI8 from local master to remote master.
 
-change 9 :-> to test pullpull operation from remote master to local master.
+change 9 :-> to test pull operation from remote master to local master.
 
-change 10 :-> change for bug3 on remote master by team mate to test rebase.
+change 10 :-> local master to test rebase for CR2.
+
+change 11 :-> conflict resolved.
+
